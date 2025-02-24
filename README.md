@@ -51,7 +51,7 @@ The **UI/UX Portfolio Website** is designed to present my design projects, case 
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-- ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) – (If using)  
+- ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### **Animations**  
 - ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)  
@@ -69,10 +69,10 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ReinaLalitta/ui-ux-portfolio
+git clone https://github.com/ReinaLalitta/UI-UX-Portfolio-Website.git
 
 # Navigate to the project directory
-cd ui-ux-portfolio
+cd UI-UX-Portfolio-Website
 
 # Open index.html in a browser
 🚀 In your local environment (e.g., VS Code), install the Live Server extension to preview the project.
@@ -96,10 +96,10 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 📧 Contact
 For inquiries, collaborations, or feedback, feel free to reach out:
 
-📍 Portfolio: [Your Portfolio Link]
-🔗 LinkedIn: [Your LinkedIn Profile]
-🐙 GitHub: [Your GitHub Profile]
-📧 Email: your.email@example.com
+📍 Portfolio: [https://github.com/ReinaLalitta]
+🔗 LinkedIn: [https://www.linkedin.com/in/purity-lutta-1568a3265/]
+🐙 GitHub: [https://github.com/ReinaLalitta]
+📧 Email: elnalutta@gmail.com
 
 🌟 If you like my work, don’t forget to give this repo a ⭐! 😊
 
